@@ -1,14 +1,14 @@
-#Инструкция по работе с GIT
+# Инструкция по работе с GIT
 
 LICENCE: [MIT](./license.md)
 
-![git-logo](.assets/git-logo.png)
+![git-logo](./assets/git-logo.png)
 
 ---
 
 ### Содержание
 1. 
-2. [git add](./readme.md)
+2. [git add](./add.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,
