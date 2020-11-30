@@ -9,8 +9,14 @@ LICENCE: [MIT](./license.md)
 ### Содержание
 1. [Введение](./introduction.md)
 2. Основные команды
-    1. [git add](./add.md)
-    2. [git status](./status.md)
+    1. [git add](./commands/add.md)
+    2. [git status](./commands/status.md)
+    3. [git diff](./commands/diff.md)
+    4. [git commit](./commands/commit.md)
+    5. [git reset](./commands/reset.md)
+    6. [git rm](./commands/rm.md)
+    7. [git mv](./commands/mv.md)
+    8. [git clean](./commands/clean.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,
