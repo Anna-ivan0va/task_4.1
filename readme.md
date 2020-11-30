@@ -7,8 +7,10 @@ LICENCE: [MIT](./license.md)
 ---
 
 ### Содержание
-1. [Что такое git](./introduction.md)
-2. [git add](./add.md)
+1. [Введение](./introduction.md)
+2. Основные команды
+    1. [git add](./add.md)
+    2. [git status](./status.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,
