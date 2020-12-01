@@ -15,7 +15,7 @@ LICENCE: [MIT](./license.md)
 
     3. [Настройки по умолчанию](./settings/default.md)
 
-    4. [Псевдонимы](./aliases.md)
+    4. [Псевдонимы](./settings/aliases.md)
     
 3. [Основные команды](./commands)
     1. [git add](./commands/add.md)
