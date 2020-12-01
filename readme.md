@@ -9,10 +9,12 @@ LICENCE: [MIT](./license.md)
 ### Содержание
 1. [Введение](./introduction.md)
 2. Настройка git
-    1. [Конфигурационные файлы](./config.md)
-    2. [Игнорирование файлов](./ignore.md)
+    1. [Конфигурационные файлы](./settings/config.md)
+    2. [Игнорирование файлов](./settings/ignore.md)
 
-    2. [Настройки по умолчанию](./default.md)
+    3. [Настройки по умолчанию](./settings/default.md)
+
+    4. [Псевдонимы](./aliases.md)
     
 3. Основные команды
     1. [git add](./commands/add.md)
